@@ -1,0 +1,1 @@
+#define ADC_PIN F4   // Pin A3
